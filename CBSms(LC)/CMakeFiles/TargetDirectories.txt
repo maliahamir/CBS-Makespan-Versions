@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/CBS/CBS-makespan-soc-mc/CMakeFiles/cbs.dir
+/home/vboxuser/Desktop/CBS/CBS-makespan-soc-mc/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/CBS/CBS-makespan-soc-mc/CMakeFiles/rebuild_cache.dir

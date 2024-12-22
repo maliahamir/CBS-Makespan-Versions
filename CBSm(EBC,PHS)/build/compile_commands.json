@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/CBS.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/CBS.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/CBS.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/CBSHeuristic.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/CBSHeuristic.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/CBSHeuristic.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/CBSNode.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/CBSNode.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/CBSNode.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/Conflict.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/Conflict.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/Conflict.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/ConstraintPropagation.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/ConstraintPropagation.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/ConstraintPropagation.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/ConstraintTable.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/ConstraintTable.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/ConstraintTable.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/CorridorReasoning.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/CorridorReasoning.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/CorridorReasoning.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/IncrementalPairwiseMutexPropagation.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/IncrementalPairwiseMutexPropagation.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/IncrementalPairwiseMutexPropagation.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/Instance.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/Instance.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/Instance.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/MDD.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/MDD.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/MDD.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/MutexReasoning.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/MutexReasoning.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/MutexReasoning.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/RectangleReasoning.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/RectangleReasoning.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/RectangleReasoning.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/ReservationTable.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/ReservationTable.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/ReservationTable.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/SIPP.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/SIPP.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/SIPP.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/SingleAgentSolver.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/SingleAgentSolver.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/SingleAgentSolver.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/SpaceTimeAStar.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/SpaceTimeAStar.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/SpaceTimeAStar.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/common.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/common.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/common.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -I/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/inc  -std=c++14 -g -o CMakeFiles/cbs.dir/src/driver.cpp.o -c /home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/driver.cpp",
+  "file": "/home/vboxuser/Desktop/CBS/CBS-makespan-bounded-Astar-No-Root-pure-h/src/driver.cpp"
+}
+]
