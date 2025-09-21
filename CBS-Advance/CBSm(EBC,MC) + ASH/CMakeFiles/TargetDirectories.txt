@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/CBS-MC-h/CMakeFiles/cbs.dir
+/home/vboxuser/Desktop/CBS-MC-h/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/CBS-MC-h/CMakeFiles/rebuild_cache.dir
